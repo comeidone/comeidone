@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @comeidone, I am a software engineer and currently work as a full stak java developer.
-- 👀 I’m interested in artificial intelligence and machine learning 
-- 🌱 I’m currently learning python and front-end technologies
+- 👀 I’m interested in artificial intelligence, machine learning and blockchain
+- 🌱 I’m currently learning python, solidity and front-end technologies
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
