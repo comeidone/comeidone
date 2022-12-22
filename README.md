@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @comeidone, I am a software engineer and currently work as a full stak java developer.
+- 👋 Hi, I’m @comeidone, I am a software engineer and currently work as an Appian developer.
 - 👀 I’m interested in artificial intelligence, machine learning and blockchain
 - 🌱 I’m currently learning python, solidity and front-end technologies
 <!-- - 💞️ I’m looking to collaborate on ...
